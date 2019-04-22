@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+        {% load staticfiles %}
+<head>
+	<title>Sign in</title>
+	<style>
+		body{
+            background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url({% static 'sigin.jpg' %});
+			font-family: Arial;
+		    background-repeat: no-repeat;
+            background-size: cover;
+            height:100vh;
+		}
+		.center{
+			max-width: 350px;
+			border-radius: 20px;
+			margin: auto;
+			background: rgba(0,0,0,0.6);
+			box-sizing: border-box;
+			padding: 40px;
+			color: #fff;
+			margin-top: 100px;
+		}
+		h2{
+			text-align: center;
+		}
+		input[type=text],input[type=password]{
+			width: 100%;
+			box-sizing: border-box;
+			padding: 12px 5px;
+			background: rgba(0,0,0,0.9);
+			outline: none;
+			border: none;
+			border-bottom: 1px dotted #fff;
+			color: #fff;
+			border-radius: 5px;
+			margin: 5px;
+			font-weight: bold;
+		}
+		input[type=submit]{
+			width: 100%;
+			box-sizing: border-box;
+			padding: 10px 0;
+			margin-top: 30px;
+			outline: none;
+			border: none;
+			background: #60adde;
+			opacity: 0.4;
+			border-radius: 20px;
+			font-size: 20px;
+			color: #fff;
+		}
+		input[type=submit]:hover{
+			background:#003366;
+			opacity: 0.7;
+		}
+	</style>
+</head>
+<body>
+	<div class="center">
+	  <h2>Sign Up Here</h2>
+	  <form method="post" action="{% url 'customer_signin' %}">
+        {% csrf_token %}
+        &nbsp;<font color="red" size="3">{{ error }}</font>
+		<input type="text" name='Name' placeholder="Name" required>
+		<input type="text" name='username' placeholder="Username" required>
+		<input type="password" name='password1' placeholder="Password" required>
+		<input type="password" name='password2' placeholder="Confirm-Password" required>
+		<input type="text" name='email1' placeholder="Email_Id" required>
+		<input type="submit" value="Submit">
+	  </form>
+	</div>
+</body>
+</html>
+

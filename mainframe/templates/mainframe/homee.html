@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html>{% load staticfiles %}
+<head>
+	<title>ORE</title>
+	<style>
+        body{
+			background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url({% static 'reparing2.jpg' %});
+            background-repeat:no-repeat;
+            background-size: 100% 100%;
+        }
+        *{
+            margin: 0;
+            padding: 0;
+        }
+        /*Main Body Code */
+        .mainbody{
+            width: 100%;
+            height: 100vh;
+        }
+        /*Header Code */
+        .header{
+            background-color: rgba(0,0,0,0.1);
+            width: 100%;
+            height: 10%;
+        }
+        /*Header-leftheader Code */
+        .leftheader{
+            width: 30%;
+            height: 100%;
+            float: left;
+        }
+            #logo{
+                width: 100px;
+                height: 100%;
+                margin-left: 30%;
+            }
+        /*Header-rightheader Code */
+        .rightheader{
+            width: 70%;
+            height: 100%;
+            float: right;
+        }
+            #h5{
+                float: right;
+                margin-top: 3%;
+                margin-right: 25px;
+            }
+            #signinlogo{
+                float: right;
+                width: 40px;
+                height: 40px;
+                margin-top: 1%;
+            }
+            #signoutlogo{
+                float: right;
+                width: 40px;
+                height: 40px;
+                margin-top: 1%;
+                margin-left: 10px;
+            }
+            #sinbtn{
+                color: white;
+            }
+            #soutbtn{
+                color: white;
+            }
+            #sinbtn:hover{
+                color: teal;
+            }
+            #soutbtn:hover{
+                color: teal;
+            }
+        /*Center Code */
+        .center{
+            width: 100%;
+            height: 65%;
+        }
+            .content{
+                padding-top: 15%;
+                padding-left: 40%;
+            }
+            #search{
+                width: 200px;
+                height: 30px;
+                margin-bottom: 10px;
+                background-color: rgba(0,0,0,0.4);
+                color: white;
+                padding-left: 10px;
+            }
+            #search::placeholder{
+                color: white;
+            }
+            #findbt{
+                width: 150px;
+                height: 30px;
+                border: 2px solid white;
+                background-color: transparent;
+                border-radius: 50px;
+                margin-left: 25px;
+                color: white;
+            }
+            #findbt:hover{
+                background-color: teal;
+            }
+        /*Footer Code */
+        .footer{
+            background-color: rgba(0,0,0,0.7);
+            width: 100%;
+            height: 25%;
+        }
+            h3{
+                color: white;
+                padding-top: 10px;
+                text-align: center;
+                padding-bottom: 10px;
+            }
+           #h55{
+                color: white;
+           }
+            .footercontainer{
+                padding-left: 20px;
+            }
+            .copyright{
+                color: white;
+                text-align: center;
+            }
+    </style>
+</head>
+<body>
+<div class="mainbody">
+	<div class="header">
+		<div class="leftheader">
+			<img id='logo' src="{% static 'logo.png' %}">
+		</div>
+		<div class="rightheader">
+			<a id='soutbtn' href="{% url 'verify' %}">
+				<h5 id="h5">SIGN-UP</h5>
+				<img id='signoutlogo' src="{% static 'signoutlogo.png' %}">
+			</a>
+			<a id='sinbtn' href="{% url 'login' %}">
+				<h5 id="h5">SIGN-IN</h5>
+				<img id='signinlogo' src="{% static 'signinlogo.png' %}">
+			</a>
+		</div>
+	</div>
+	<div class="center">
+<!--MAIN SEARCHING CODE-->
+        <div class="content">
+            <form method="post" action="{% url 'verify' %}">
+                 {% csrf_token %}
+                 <input id="search" type="text" name="Search" placeholder="Search.."><br>
+                 <input id="search" type="text" name="Location" placeholder="Location.."><br>
+                 <input id="findbt" type="submit" value="Find">
+            </form>
+        </div>
+	</div>
+	<div class="footer">
+	    <hr>
+        <div class="footercenter">
+            <h3>ONLINE REPAIRING ENVIRONMENT</h3>
+            <hr>
+        </div>
+        <div class="footercontainer">
+            <br>
+				<h5 id="h55">WE ARE PROVIDING LOTS OF FACILITY WHICH HELPS TO REPARE ANY PRODUCT LIKE AC | REFREGRATORS | WASHING MACHINE | T.V | FAN | COOLER | SMARTPHONE | COMPUTER | LEPTOP | TABLETS AND SO ON .AND ALSO YOU CAN WORK <a  href="" style="color: blue">FOR US</a>.</h5>
+				<ul>
+					<li><a href="#">INFO</a></li>
+					<li><a href="#">ABOUT US</a></li>
+				</ul>
+			</div>
+        <div class="copyright">
+				<p>&copy; ORE 2019-2020.</p>
+			</div>
+		</div>
+	</div>
+</div>
+</body>
+</html>

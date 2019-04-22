@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="98650b2d-27ed-49b6-b243-a5256e9f8c5f" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/account/templates/account/profile.html" />
+        <option value="$PROJECT_DIR$/account/templates/account/profileverify.html" />
+        <option value="$PROJECT_DIR$/mobile/apps.py" />
+        <option value="$PROJECT_DIR$/mobiles/views.py" />
+        <option value="$PROJECT_DIR$/mobiles/urls.py" />
+        <option value="$PROJECT_DIR$/mobiles/apps.py" />
+        <option value="$PROJECT_DIR$/account/apps.py" />
+        <option value="$PROJECT_DIR$/mobile/admin.py" />
+        <option value="$PROJECT_DIR$/mobile/templates/mobile/filll.html" />
+        <option value="$PROJECT_DIR$/mobile/models.py" />
+        <option value="$PROJECT_DIR$/mobile/urls.py" />
+        <option value="$PROJECT_DIR$/mobile/views.py" />
+        <option value="$PROJECT_DIR$/mobile/templates/mobile/fill.html" />
+        <option value="$PROJECT_DIR$/aio/admin.py" />
+        <option value="$PROJECT_DIR$/aio/urls.py" />
+        <option value="$PROJECT_DIR$/account/admin.py" />
+        <option value="$PROJECT_DIR$/account/urls.py" />
+        <option value="$PROJECT_DIR$/oreproject/urls.py" />
+        <option value="$PROJECT_DIR$/oreproject/settings.py" />
+        <option value="$PROJECT_DIR$/account/models.py" />
+        <option value="$PROJECT_DIR$/mainframe/templates/mainframe/mneror.html" />
+        <option value="$PROJECT_DIR$/mainframe/templates/mainframe/mnerror.html" />
+        <option value="$PROJECT_DIR$/aio/models.py" />
+        <option value="$PROJECT_DIR$/aio/views.py" />
+        <option value="$PROJECT_DIR$/account/templates/account/customer_signin.html" />
+        <option value="$PROJECT_DIR$/account/templates/account/retailer_signin.html" />
+        <option value="$PROJECT_DIR$/account/templates/account/verify.html" />
+        <option value="$PROJECT_DIR$/aio/templates/aio/congratulation.html" />
+        <option value="$PROJECT_DIR$/mainframe/templates/mainframe/mnframe.html" />
+        <option value="$PROJECT_DIR$/account/templates/account/machanicprofile.html" />
+        <option value="$PROJECT_DIR$/mainframe/urls.py" />
+        <option value="$PROJECT_DIR$/mainframe/views.py" />
+        <option value="$PROJECT_DIR$/account/templates/account/userprofile.html" />
+        <option value="$PROJECT_DIR$/aio/templates/aio/fill.html" />
+        <option value="$PROJECT_DIR$/account/views.py" />
+        <option value="$PROJECT_DIR$/mainframe/templates/mainframe/home.html" />
+        <option value="$PROJECT_DIR$/mainframe/templates/mainframe/homee.html" />
+        <option value="$PROJECT_DIR$/account/templates/account/login.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="251" />
+    <option name="width" value="785" />
+    <option name="height" value="728" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="oreproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oreproject" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oreproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oreproject" type="462c0819:PsiDirectoryNode" />
+              <item name="account" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oreproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oreproject" type="462c0819:PsiDirectoryNode" />
+              <item name="account" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oreproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oreproject" type="462c0819:PsiDirectoryNode" />
+              <item name="account" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="account" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oreproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oreproject" type="462c0819:PsiDirectoryNode" />
+              <item name="mainframe" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oreproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oreproject" type="462c0819:PsiDirectoryNode" />
+              <item name="mainframe" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oreproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oreproject" type="462c0819:PsiDirectoryNode" />
+              <item name="mainframe" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="mainframe" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oreproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oreproject" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Jango\LTS\project\oreenv\Scripts\oreproject\oreproject\static" />
+      <recent name="C:\Jango\LTS\project\oreenv\Scripts\oreproject\static" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="oreproject" type="Python.DjangoServer" factoryName="Django server">
+      <module name="oreproject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="98650b2d-27ed-49b6-b243-a5256e9f8c5f" name="Default Changelist" comment="" />
+      <created>1549037859552</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1549037859552</updated>
+      <workItem from="1549037861383" duration="6786000" />
+      <workItem from="1549169435574" duration="1429000" />
+      <workItem from="1549267310282" duration="1225000" />
+      <workItem from="1549270202740" duration="15610000" />
+      <workItem from="1549293215729" duration="6673000" />
+      <workItem from="1549364717484" duration="595000" />
+      <workItem from="1549374583509" duration="15755000" />
+      <workItem from="1549453650538" duration="2816000" />
+      <workItem from="1549508611185" duration="6588000" />
+      <workItem from="1549525042788" duration="3497000" />
+      <workItem from="1549532714522" duration="11341000" />
+      <workItem from="1549552491285" duration="1839000" />
+      <workItem from="1549621313441" duration="7939000" />
+      <workItem from="1549639324405" duration="6149000" />
+      <workItem from="1549715071665" duration="14099000" />
+      <workItem from="1549805695211" duration="11274000" />
+      <workItem from="1549819555564" duration="2667000" />
+      <workItem from="1549882136182" duration="2523000" />
+      <workItem from="1553950544575" duration="3258000" />
+      <workItem from="1554017514986" duration="664000" />
+      <workItem from="1554035395740" duration="281000" />
+      <workItem from="1554087985563" duration="680000" />
+      <workItem from="1554088695515" duration="3581000" />
+      <workItem from="1554094569569" duration="1159000" />
+      <workItem from="1554136528556" duration="79000" />
+      <workItem from="1554307111086" duration="1231000" />
+      <workItem from="1554965954779" duration="173000" />
+      <workItem from="1554994329999" duration="790000" />
+      <workItem from="1555003439227" duration="426000" />
+      <workItem from="1555671154698" duration="4721000" />
+      <workItem from="1555684536771" duration="582000" />
+      <workItem from="1555731960966" duration="3647000" />
+      <workItem from="1555740583988" duration="1513000" />
+      <workItem from="1555935523036" duration="971000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="142561000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1040" height="744" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22244897" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.12755102" side_tool="true" weight="0.04901961" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.872449" visible="true" weight="0.04901961" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19591837" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.12755102" side_tool="true" weight="0.04901961" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.872449" visible="true" weight="0.15522876" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/account/templates/account/detail.html" />
+    <entry file="file://$PROJECT_DIR$/mobiles/migrations/0002_auto_20190204_1752.py" />
+    <entry file="file://$PROJECT_DIR$/mobiles/migrations/0001_initial.py" />
+    <entry file="file://$PROJECT_DIR$/mobiles/views.py" />
+    <entry file="file://$PROJECT_DIR$/mobiles/urls.py" />
+    <entry file="file://$PROJECT_DIR$/mobiles/tests.py" />
+    <entry file="file://$PROJECT_DIR$/mobiles/models.py" />
+    <entry file="file://$PROJECT_DIR$/mobiles/apps.py" />
+    <entry file="file://$PROJECT_DIR$/mobiles/admin.py" />
+    <entry file="file://$PROJECT_DIR$/mobile/templates/mobile/filll.html" />
+    <entry file="file://$PROJECT_DIR$/account/apps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/account/tests.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mainframe/admin.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mainframe/apps.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile/admin.py" />
+    <entry file="file://$PROJECT_DIR$/mobile/apps.py" />
+    <entry file="file://$PROJECT_DIR$/mobile/tests.py" />
+    <entry file="file://$PROJECT_DIR$/mainframe/tests.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile/models.py" />
+    <entry file="file://$PROJECT_DIR$/mobile/urls.py" />
+    <entry file="file://$PROJECT_DIR$/mobile/views.py" />
+    <entry file="file://$PROJECT_DIR$/mobile/templates/mobile/fill.html" />
+    <entry file="file://$PROJECT_DIR$/aio/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/../Projectsxs/oreproject/mobile/models.py" />
+    <entry file="file://$PROJECT_DIR$/oreproject/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="117" column="45" selection-start-line="117" selection-start-column="45" selection-end-line="117" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mainframe/models.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mainframe/templates/mainframe/mneror.html" />
+    <entry file="file://$PROJECT_DIR$/mainframe/templates/mainframe/mnerror.html" />
+    <entry file="file://$PROJECT_DIR$/account/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="13" column="39" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aio/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="57" selection-start-line="14" selection-start-column="57" selection-end-line="14" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aio/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/bglogin.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/account/admin.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/account/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aio/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="44" lean-forward="true" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+          <folding>
+            <element signature="e#0#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/account/templates/account/customer_signin.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1292">
+          <caret line="76" lean-forward="true" selection-start-line="76" selection-end-line="76" />
+          <folding>
+            <element signature="e#1336#1342#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/account/templates/account/verify.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="73" lean-forward="true" selection-start-line="73" selection-end-line="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aio/templates/aio/congratulation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="6" lean-forward="true" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oreproject/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="39" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/account/templates/account/retailer_signin.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="81" lean-forward="true" selection-start-line="81" selection-end-line="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mainframe/templates/mainframe/mnframe.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-238">
+          <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/account/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="91" column="30" selection-start-line="91" selection-start-column="30" selection-end-line="91" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#46#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/account/templates/account/userprofile.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="166" column="39" selection-start-line="166" selection-start-column="39" selection-end-line="166" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aio/templates/aio/fill.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="190" column="31" selection-start-line="190" selection-start-column="31" selection-end-line="190" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/account/templates/account/machanicprofile.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-443">
+          <caret line="163" column="8" selection-start-line="163" selection-start-column="8" selection-end-line="163" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mainframe/templates/mainframe/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mainframe/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mainframe/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mainframe/templates/mainframe/homee.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="139" column="46" selection-start-line="139" selection-start-column="46" selection-end-line="139" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/account/templates/account/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/account/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
